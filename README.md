@@ -1,6 +1,7 @@
 # fintech-loan-approval-ab-testing
 # Fintech Loan Approval & A/B Testing
 
+[open project in google colab](https://colab.research.google.com/drive/1Dh0CkzwTiQJuLhHd4rSTAlW93eLg1dnu?usp=sharing)
 ## 📌 About the Project
 
 This project uses Machine Learning to predict whether a loan application should be approved and uses A/B Testing to compare an existing loan approval policy with an ML-based policy.
